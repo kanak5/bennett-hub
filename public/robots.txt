@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://bennettshub.in/sitemap.xml
+
+# Disallow admin or draft paths (none currently)
+Disallow: /src/
+Disallow: /node_modules/
+
+# Crawl delay for considerate crawling
+Crawl-delay: 10

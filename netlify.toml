@@ -1,0 +1,11 @@
+/*
+  Bennett Student Hub — Netlify / Vercel / Apache routing configuration
+  Enables SPA client-side routing by rewriting all paths to index.html
+*/
+
+/* For Netlify (_redirects file is also included): */
+/* All routes → index.html */
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

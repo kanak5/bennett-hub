@@ -1,0 +1,92 @@
+[
+  {
+    "id": "main-auditorium",
+    "name": "Main Auditorium",
+    "type": "auditorium",
+    "capacity": 800,
+    "description": "Bennett University's primary large-scale event venue. Equipped with a professional stage, audio-visual system, LED display screens, and fixed seating. Used for convocations, major cultural events, annual fests, and large technical seminars.",
+    "location": "Main Academic Block, Ground Floor",
+    "verified": false
+  },
+  {
+    "id": "seminar-hall-1",
+    "name": "Seminar Hall 1",
+    "type": "seminar-hall",
+    "capacity": 200,
+    "description": "A well-equipped seminar hall with tiered seating, a projector, and videoconferencing facilities. Commonly used for departmental seminars, workshops, guest lectures, and committee meetings.",
+    "location": "Block A, First Floor",
+    "verified": false
+  },
+  {
+    "id": "seminar-hall-2",
+    "name": "Seminar Hall 2",
+    "type": "seminar-hall",
+    "capacity": 150,
+    "description": "Mid-sized seminar hall with flat-floor layout, movable seating, and presentation facilities. Popular for club events, panel discussions, and interactive workshops.",
+    "location": "Block B, Second Floor",
+    "verified": false
+  },
+  {
+    "id": "seminar-hall-3",
+    "name": "Seminar Hall 3",
+    "type": "seminar-hall",
+    "capacity": 100,
+    "description": "A smaller seminar room ideal for focused workshops, MUN committee sessions, and departmental events. Has a whiteboard, projector, and breakout spaces nearby.",
+    "location": "Block C, First Floor",
+    "verified": false
+  },
+  {
+    "id": "innovation-lab",
+    "name": "Innovation Lab",
+    "type": "lab",
+    "capacity": 80,
+    "description": "Bennett University's flagship maker space and innovation hub. Equipped with 3D printers, soldering stations, IoT kits, prototyping tools, and high-performance workstations. The go-to venue for hackathons, robotics sessions, and project build days.",
+    "location": "Block A, Ground Floor",
+    "verified": false
+  },
+  {
+    "id": "cs-lab-1",
+    "name": "Computer Science Lab 1",
+    "type": "lab",
+    "capacity": 60,
+    "description": "Primary computing lab with individual workstations running Windows and Linux dual-boot. Used for coding workshops, hackathon warm-ups, and programming bootcamps.",
+    "location": "Block B, Ground Floor",
+    "verified": false
+  },
+  {
+    "id": "cs-lab-2",
+    "name": "Computer Science Lab 2",
+    "type": "lab",
+    "capacity": 60,
+    "description": "Secondary computing lab configured for cloud computing, networking, and DevOps labs. Features enterprise networking equipment and cloud lab workstations.",
+    "location": "Block B, First Floor",
+    "verified": false
+  },
+  {
+    "id": "amphitheatre",
+    "name": "Campus Amphitheatre",
+    "type": "outdoor",
+    "capacity": 400,
+    "description": "An open-air amphitheatre at the heart of the Bennett University campus. A popular venue for cultural performances, open-mic nights, informal gatherings, and outdoor events.",
+    "location": "Central Campus Lawn",
+    "verified": false
+  },
+  {
+    "id": "cricket-ground",
+    "name": "Cricket Ground",
+    "type": "outdoor",
+    "capacity": 500,
+    "description": "A well-maintained cricket ground with a turf pitch and spectator seating. Used for inter-department cricket leagues, Sports Day events, and informal cricket matches.",
+    "location": "North Campus Sports Zone",
+    "verified": false
+  },
+  {
+    "id": "electronics-lab",
+    "name": "Electronics & Robotics Lab",
+    "type": "lab",
+    "capacity": 40,
+    "description": "Specialised lab equipped with oscilloscopes, signal generators, microcontroller kits (Arduino, Raspberry Pi), and robotics components. Used by the Robotics Club and for embedded systems workshops.",
+    "location": "Block D, Ground Floor",
+    "verified": false
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "id": "codebit-club",
+    "name": "CodeBit Club",
+    "category": "technical",
+    "tagline": "Where code meets community",
+    "description": "CodeBit is Bennett University's premier programming club. We organise competitive programming contests, coding bootcamps, and collaborative open-source projects. Members regularly participate in ICPC, Codeforces rounds, and hackathons.",
+    "activities": [
+      "Weekly competitive programming practice sessions",
+      "Monthly internal coding contests",
+      "Open-source project collaborations",
+      "Mentorship programmes for first-year students",
+      "Participation in ICPC regionals and national contests"
+    ],
+    "meetingFrequency": "Weekly",
+    "contactEmail": null,
+    "socialLinks": {
+      "instagram": null,
+      "linkedin": null,
+      "website": null
+    },
+    "verified": false,
+    "sourceUrl": "https://www.bennett.edu.in/bennett-life/life-at-campus/club-and-societies/",
+    "lastVerified": "2024-10-21",
+    "relatedEventIds": ["hackathon-bu-codequest-2024", "workshop-dsa-bootcamp"]
+  },
+  {
+    "id": "ai-ml-society",
+    "name": "AI & ML Society",
+    "category": "technical",
+    "tagline": "Exploring the intelligent future",
+    "description": "The AI & ML Society at Bennett University fosters interest in artificial intelligence, machine learning, and data science. We run hands-on workshops, reading groups, and project sprints to help students build practical AI skills.",
+    "activities": [
+      "Monthly paper reading and discussion sessions",
+      "Hands-on workshops on TensorFlow, PyTorch, and scikit-learn",
+      "Kaggle competition study groups",
+      "Industry speaker sessions",
+      "Annual AI project showcase"
+    ],
+    "meetingFrequency": "Bi-weekly",
+    "contactEmail": null,
+    "socialLinks": {
+      "instagram": null,
+      "linkedin": null,
+      "website": null
+    },
+    "verified": false,
+    "sourceUrl": "https://www.bennett.edu.in/bennett-life/life-at-campus/club-and-societies/",
+    "lastVerified": "2024-10-21",
+    "relatedEventIds": ["workshop-ml-intro", "hackathon-datathon-2024"]
+  },
+  {
+    "id": "robotics-club-bu",
+    "name": "BU Robotics Club",
+    "category": "technical",
+    "tagline": "Building the machines of tomorrow",
+    "description": "BU Robotics Club brings together students passionate about robotics, embedded systems, and automation. We build bots, compete in national robotics competitions, and run workshops on Arduino, Raspberry Pi, and ROS.",
+    "activities": [
+      "Robot design and build workshops",
+      "Participation in Robocon and Robofest",
+      "Arduino and Raspberry Pi training sessions",
+      "Drone design and simulation projects",
+      "Bi-annual robotics exhibition"
+    ],
+    "meetingFrequency": "Weekly",
+    "contactEmail": null,
+    "socialLinks": {
+      "instagram": null,
+      "linkedin": null,
+      "website": null
+    },
+    "verified": false,
+    "sourceUrl": "https://www.bennett.edu.in/bennett-life/life-at-campus/club-and-societies/",
+    "lastVerified": "2024-10-21",
+    "relatedEventIds": ["workshop-arduino-basics", "technical-robofest-2024"]
+  },
+  {
+    "id": "cybersec-club",
+    "name": "CipherGuard — Cybersecurity Club",
+    "category": "technical",
+    "tagline": "Hack ethically, defend relentlessly",
+    "description": "CipherGuard is dedicated to cybersecurity education and ethical hacking. We organise Capture the Flag (CTF) competitions, security workshops, and awareness campaigns. Members learn penetration testing, network security, and cryptography.",
+    "activities": [
+      "CTF competitions and practice sessions",
+      "Workshops on penetration testing tools (Kali Linux, Metasploit)",
+      "Cybersecurity awareness sessions",
+      "Bug bounty challenge participation",
+      "Guest talks from industry security professionals"
+    ],
+    "meetingFrequency": "Weekly",
+    "contactEmail": null,
+    "socialLinks": {
+      "instagram": null,
+      "linkedin": null,
+      "website": null
+    },
+    "verified": false,
+    "sourceUrl": "https://www.bennett.edu.in/bennett-life/life-at-campus/club-and-societies/",
+    "lastVerified": "2024-10-21",
+    "relatedEventIds": ["technical-ctf-nov-2024", "workshop-ethical-hacking"]
+  },
+  {
+    "id": "times-media-club",
+    "name": "Times Media & Journalism Club",
+    "category": "literary",
+    "tagline": "Your story, amplified",
+    "description": "Leveraging Bennett University's unique affiliation with the Times of India group, the Media & Journalism Club gives students hands-on experience in reporting, content creation, photography, and broadcast journalism.",
+    "activities": [
+      "Campus news reporting and publication",
+      "Photography and videography workshops",
+      "Media industry visits",
+      "Debate and anchoring training",
+      "Annual media fest"
+    ],
+    "meetingFrequency": "Bi-weekly",
+    "contactEmail": null,
+    "socialLinks": {
+      "instagram": null,
+      "linkedin": null,
+      "website": null
+    },
+    "verified": false,
+    "sourceUrl": "https://www.bennett.edu.in/bennett-life/life-at-campus/club-and-societies/",
+    "lastVerified": "2024-10-21",
+    "relatedEventIds": ["cultural-media-fest-2024"]
+  },
+  {
+    "id": "entrepreneurship-cell",
+    "name": "E-Cell Bennett",
+    "category": "entrepreneurship",
+    "tagline": "Build your startup, shape the future",
+    "description": "E-Cell Bennett nurtures the entrepreneurial spirit among students through startup boot camps, pitch competitions, mentorship from industry veterans, and networking events. We collaborate with Bennett's Centre for Innovation and Entrepreneurship.",
+    "activities": [
+      "Startup pitch competitions",
+      "Ideathon and business plan challenges",
+      "Mentorship sessions with founders and VCs",
+      "Networking events with alumni entrepreneurs",
+      "Collaboration with Bennett Incubation Centre"
+    ],
+    "meetingFrequency": "Bi-weekly",
+    "contactEmail": null,
+    "socialLinks": {
+      "instagram": null,
+      "linkedin": null,
+      "website": null
+    },
+    "verified": false,
+    "sourceUrl": "https://www.bennett.edu.in/bennett-life/life-at-campus/club-and-societies/",
+    "lastVerified": "2024-10-21",
+    "relatedEventIds": ["hackathon-ideathon-2024"]
+  },
+  {
+    "id": "web-dev-club",
+    "name": "WebCraft — Web Development Club",
+    "category": "technical",
+    "tagline": "From wireframes to world-class products",
+    "description": "WebCraft focuses on modern web development — from HTML/CSS fundamentals to React, Node.js, and full-stack frameworks. We host project sprints, UI/UX workshops, and participate in web-focused hackathons.",
+    "activities": [
+      "Beginner to advanced web development workshops",
+      "React.js and Node.js project sprints",
+      "UI/UX design thinking sessions",
+      "Portfolio review and feedback sessions",
+      "Open-source contribution drives"
+    ],
+    "meetingFrequency": "Weekly",
+    "contactEmail": null,
+    "socialLinks": {
+      "instagram": null,
+      "linkedin": null,
+      "website": null
+    },
+    "verified": false,
+    "sourceUrl": "https://www.bennett.edu.in/bennett-life/life-at-campus/club-and-societies/",
+    "lastVerified": "2024-10-21",
+    "relatedEventIds": ["workshop-react-bootcamp", "hackathon-bu-codequest-2024"]
+  },
+  {
+    "id": "cultural-club-bu",
+    "name": "BU Cultural Society",
+    "category": "cultural",
+    "tagline": "Where art, culture, and talent meet",
+    "description": "The BU Cultural Society is the umbrella body for all cultural activities at Bennett University, overseeing dance, music, drama, and fine arts groups. We organise the annual cultural fest Udaan and semester-long events throughout the year.",
+    "activities": [
+      "Classical and contemporary dance workshops",
+      "Music sessions and open-mic nights",
+      "Theatre and drama productions",
+      "Annual cultural fest — Udaan",
+      "Inter-college cultural competitions"
+    ],
+    "meetingFrequency": "Weekly",
+    "contactEmail": null,
+    "socialLinks": {
+      "instagram": null,
+      "linkedin": null,
+      "website": null
+    },
+    "verified": false,
+    "sourceUrl": "https://www.bennett.edu.in/bennett-life/life-at-campus/club-and-societies/",
+    "lastVerified": "2024-10-21",
+    "relatedEventIds": ["cultural-udaan-2024", "cultural-open-mic-nov"]
+  },
+  {
+    "id": "ieee-student-branch",
+    "name": "IEEE Student Branch — Bennett",
+    "category": "technical",
+    "tagline": "Connecting engineers, advancing technology",
+    "description": "The IEEE Student Branch at Bennett University is affiliated with the world's largest technical professional organisation. We host technical talks, seminars, and workshops aligned with IEEE's mission to advance technology for humanity.",
+    "activities": [
+      "IEEE TechTalk seminar series",
+      "Paper reading and publication workshops",
+      "Industry-academia networking events",
+      "IEEE Xtreme coding competition preparation",
+      "Technical project exhibitions"
+    ],
+    "meetingFrequency": "Monthly",
+    "contactEmail": null,
+    "socialLinks": {
+      "instagram": null,
+      "linkedin": null,
+      "website": null
+    },
+    "verified": false,
+    "sourceUrl": "https://www.bennett.edu.in/bennett-life/life-at-campus/club-and-societies/",
+    "lastVerified": "2024-10-21",
+    "relatedEventIds": ["technical-ieee-techtalk", "workshop-research-writing"]
+  },
+  {
+    "id": "debate-society",
+    "name": "Bennett Debate Society",
+    "category": "literary",
+    "tagline": "Argue well. Think better. Lead boldly.",
+    "description": "The Bennett Debate Society cultivates critical thinking, public speaking, and argumentation skills. We participate in inter-university debating circuits including Model UN, parliamentary debate, and turncoat debates.",
+    "activities": [
+      "Weekly debate practice (British Parliamentary format)",
+      "Model United Nations participation",
+      "Public speaking and extempore workshops",
+      "Inter-college debate tournament hosting",
+      "Annual Bennett Model UN (BUMUN)"
+    ],
+    "meetingFrequency": "Weekly",
+    "contactEmail": null,
+    "socialLinks": {
+      "instagram": null,
+      "linkedin": null,
+      "website": null
+    },
+    "verified": false,
+    "sourceUrl": "https://www.bennett.edu.in/bennett-life/life-at-campus/club-and-societies/",
+    "lastVerified": "2024-10-21",
+    "relatedEventIds": ["cultural-mun-2024"]
+  },
+  {
+    "id": "sports-club-bu",
+    "name": "BU Sports Club",
+    "category": "sports",
+    "tagline": "Compete. Excel. Inspire.",
+    "description": "The BU Sports Club coordinates sports activities across cricket, football, basketball, badminton, and athletics. We organise inter-department tournaments, coaching clinics, and represent Bennett University in inter-university meets.",
+    "activities": [
+      "Inter-department cricket and football leagues",
+      "Coaching clinics for cricket, football, and basketball",
+      "Representation at inter-university sports meets",
+      "Annual Sports Day — Sportsmania",
+      "Fitness bootcamps and wellness sessions"
+    ],
+    "meetingFrequency": "Weekly",
+    "contactEmail": null,
+    "socialLinks": {
+      "instagram": null,
+      "linkedin": null,
+      "website": null
+    },
+    "verified": false,
+    "sourceUrl": "https://www.bennett.edu.in/bennett-life/life-at-campus/club-and-societies/",
+    "lastVerified": "2024-10-21",
+    "relatedEventIds": ["sports-cricket-league-2024"]
+  },
+  {
+    "id": "cloud-computing-club",
+    "name": "CloudCraft — Cloud & DevOps Club",
+    "category": "technical",
+    "tagline": "Build, deploy, scale — anywhere",
+    "description": "CloudCraft introduces students to cloud computing, DevOps practices, and infrastructure-as-code. We collaborate with AWS and Google Cloud programs, run certification prep sessions, and organise cloud-native hackathons.",
+    "activities": [
+      "AWS and GCP certification preparation workshops",
+      "Docker, Kubernetes, and CI/CD pipeline labs",
+      "Cloud-native hackathons and project showcases",
+      "Industry talks from cloud engineers",
+      "Collaboration with AWS Educate and Google Cloud campus programs"
+    ],
+    "meetingFrequency": "Bi-weekly",
+    "contactEmail": null,
+    "socialLinks": {
+      "instagram": null,
+      "linkedin": null,
+      "website": null
+    },
+    "verified": false,
+    "sourceUrl": "https://www.bennett.edu.in/bennett-life/life-at-campus/club-and-societies/",
+    "lastVerified": "2024-10-21",
+    "relatedEventIds": ["workshop-aws-cloud-intro"]
+  }
+]

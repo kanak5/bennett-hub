@@ -1,0 +1,92 @@
+[
+  {
+    "id": "what-is-bennett-student-hub",
+    "question": "What is Bennett Student Hub?",
+    "answer": "Bennett Student Hub is an independent student resource website that aggregates information about campus events, technical clubs, workshops, hackathons, and student activities at Bennett University, Greater Noida. It is not officially affiliated with Bennett University or the Times of India Group. Our goal is to make it easy for students to discover what's happening on campus — all in one place.",
+    "category": "general"
+  },
+  {
+    "id": "how-to-discover-events",
+    "question": "How can I discover upcoming events at Bennett University?",
+    "answer": "Visit the <a href='/events/upcoming/'>Upcoming Events</a> page to browse all events sorted by date. You can filter by category (technical, cultural, workshop, hackathon, sports) or search by keyword. The homepage also highlights featured events. For official announcements, always check the <a href='https://www.bennett.edu.in/bennett-life/life-at-campus/university-events/' target='_blank' rel='noopener noreferrer'>Bennett University official events page</a>.",
+    "category": "events"
+  },
+  {
+    "id": "how-to-register-for-events",
+    "question": "How do I register for an event listed on this site?",
+    "answer": "Each event page includes a registration status and, when available, a direct link to the official registration page (e.g., Unstop, Google Forms, or the university's own portal). Click the 'Register Now' button on any event detail page. Bennett Student Hub does not handle registrations directly — you will always be directed to the official registration source. If no registration link is available, the event may not have opened registrations yet, or the information is not publicly available.",
+    "category": "registration"
+  },
+  {
+    "id": "eligibility-requirements",
+    "question": "Who can participate in events listed on this site?",
+    "answer": "Eligibility varies by event. Most BU-organised events are open to all currently enrolled Bennett University students. Some events (especially inter-college competitions and cultural fests) are open to students from other universities. Each event detail page clearly states the eligibility requirements. When eligibility is not confirmed, it is listed as 'To be confirmed' — in that case, contact the organising club directly.",
+    "category": "events"
+  },
+  {
+    "id": "event-information-accuracy",
+    "question": "How accurate and up-to-date is the event information on this site?",
+    "answer": "We make every effort to source information from official university channels, club announcements, and verified student contributions. Each event and club listing shows its 'Last Verified' date. Events marked with a ⚠️ symbol have not been independently verified from an official source. Dates, venues, and registration deadlines can change — always confirm final details with the organising club or official university channels before attending or registering.",
+    "category": "accuracy"
+  },
+  {
+    "id": "how-to-join-a-club",
+    "question": "How do I join a student club at Bennett University?",
+    "answer": "Most clubs at Bennett University accept new members at the beginning of each semester through auditions, applications, or open recruitment drives. Visit the <a href='/technical-clubs/'>Clubs Directory</a> to find a club that interests you. Each club page lists contact information (where publicly available) and links to official pages. To confirm current membership procedures, reach out directly to the club or check announcements on the university's official social channels.",
+    "category": "clubs"
+  },
+  {
+    "id": "are-events-free",
+    "question": "Are the events free to attend?",
+    "answer": "Many events at Bennett University — including most technical workshops, club sessions, and internal competitions — are free for BU students. Some larger events like fests, inter-college competitions, or events with material costs may charge a small fee. The event detail pages on this site display the cost where known. If cost information is not listed, it is marked as 'To be confirmed'.",
+    "category": "events"
+  },
+  {
+    "id": "what-are-clubs-at-bu",
+    "question": "What kinds of clubs are there at Bennett University?",
+    "answer": "Bennett University has a diverse range of student clubs across technical (coding, robotics, AI/ML, cybersecurity, web development, cloud computing), cultural (dance, music, theatre, media), entrepreneurship, sports, and literary categories. Visit the <a href='/technical-clubs/'>Clubs Directory</a> to explore all listed clubs. For the complete official list, visit <a href='https://www.bennett.edu.in/bennett-life/life-at-campus/club-and-societies/' target='_blank' rel='noopener noreferrer'>Bennett University's Clubs & Societies page</a>.",
+    "category": "clubs"
+  },
+  {
+    "id": "where-are-events-held",
+    "question": "Where are events typically held at Bennett University?",
+    "answer": "Events at Bennett University are held across various campus venues — the main Auditorium, multiple Seminar Halls, the Innovation Lab, CS Labs, the Amphitheatre, and outdoor grounds. The <a href='/campus-guide/'>Campus Guide</a> provides descriptions of common event venues. For specific room or location details on the day, always check with the event organisers.",
+    "category": "events"
+  },
+  {
+    "id": "submit-event-correction",
+    "question": "How do I report an error or submit a new event?",
+    "answer": "If you notice incorrect information or want to submit details of an event not yet listed, please use the <a href='/contact/'>Contact & Feedback</a> form. Include the event name, what's incorrect or missing, and a link to the official source where possible. We aim to review submissions within 2–3 business days.",
+    "category": "accuracy"
+  },
+  {
+    "id": "unofficial-disclaimer",
+    "question": "Is Bennett Student Hub officially part of Bennett University?",
+    "answer": "No. Bennett Student Hub is an independent student resource and is not officially affiliated with, endorsed by, or operated by Bennett University or the Times of India Group. This website is created and maintained by students to help the campus community discover events and clubs more easily. For official university information, please visit <a href='https://www.bennett.edu.in/' target='_blank' rel='noopener noreferrer'>bennett.edu.in</a>.",
+    "category": "general"
+  },
+  {
+    "id": "hackathon-info",
+    "question": "Where can I find upcoming hackathons at Bennett University?",
+    "answer": "Visit the <a href='/hackathons/'>Hackathons</a> page for a curated list of upcoming hackathons and coding competitions at and around Bennett University. You can also check <a href='https://unstop.com/hackathons' target='_blank' rel='noopener noreferrer'>Unstop</a> for a broader list of hackathons relevant to BU students. Our listing includes registration links, team size, eligibility, and prize information where available.",
+    "category": "events"
+  },
+  {
+    "id": "how-information-sourced",
+    "question": "Where does Bennett Student Hub get its information from?",
+    "answer": "Information is sourced from: (1) Official Bennett University website and announcements, (2) University club social media pages and official posts, (3) Platforms like Unstop for hackathon listings, and (4) Verified contributions from BU students and club representatives. All sourced content is attributed where possible, and each listing displays its source URL and last-verified date.",
+    "category": "accuracy"
+  },
+  {
+    "id": "registration-deadline-missed",
+    "question": "What if I missed a registration deadline?",
+    "answer": "If you've missed a registration deadline, we recommend contacting the organising club directly to check if late entries are accepted. Bennett Student Hub does not manage event registrations, so we cannot extend deadlines or add you to lists. Club contact information (where publicly available) is listed on club pages. Some events also have spot registration — check the event page or club announcement.",
+    "category": "registration"
+  },
+  {
+    "id": "past-events-archive",
+    "question": "Can I see information about past events?",
+    "answer": "Yes! Visit the <a href='/past-events/'>Past Events</a> page to browse historical campus events, including hackathons, cultural fests, workshops, and competitions. Past event pages include details like outcomes, photos (where contributed), and results. This can help you understand what to expect from recurring events like annual fests and competitions.",
+    "category": "events"
+  }
+]

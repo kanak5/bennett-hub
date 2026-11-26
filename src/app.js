@@ -290,7 +290,7 @@ function renderEventCard(event, query = '') {
         <div style="display:flex; gap:8px;">
           <a href="/events/${event.id}/" class="btn btn-ghost btn-sm">Details</a>
           ${event.registrationStatus === 'open' && event.registrationUrl && event.registrationUrl !== '#'
-            ? `<a href="${event.registrationUrl}" target="_blank" rel="noopener noreferrer" class="btn btn-primary btn-sm">Register ↗</a>`
+            ? `<a href="${event.registrationUrl}" target="_blank" rel="noopener noreferrer" class="btn btn-primary btn-sm" data-track-registration="true" data-event-id="${event.id}">Register ↗</a>`
             : upcoming && event.registrationStatus === 'coming-soon'
               ? `<span class="btn btn-secondary btn-sm" style="cursor:default; opacity:0.7;">Coming Soon</span>`
               : ''
@@ -862,7 +862,7 @@ function renderEventDetail(slug) {
               </div>
 
               ${event.registrationStatus === 'open' && event.registrationUrl && event.registrationUrl !== '#' ? `
-                <a href="${event.registrationUrl}" target="_blank" rel="noopener noreferrer" class="btn btn-primary btn-lg" style="width:100%; justify-content:center;" aria-label="Register for ${event.title}">
+                <a href="${event.registrationUrl}" target="_blank" rel="noopener noreferrer" class="btn btn-primary btn-lg" style="width:100%; justify-content:center;" aria-label="Register for ${event.title}" data-track-registration="true" data-event-id="${event.id}">
                   Register Now ↗
                 </a>
                 <p style="font-size:0.8125rem; color:var(--color-gray-500); margin-top:var(--space-3); text-align:center;">
@@ -1227,6 +1227,26 @@ function render404() {
   `;
 }
 
+/* ===== GA4 Registration Click Tracking ===== */
+function setupRegistrationTracking() {
+  document.addEventListener('click', (e) => {
+    const link = e.target.closest('a[data-track-registration="true"]');
+    if (!link) return;
+
+    if (typeof window.gtag !== 'function') {
+      console.warn('GA4 is not available. Registration click was not tracked.');
+      return;
+    }
+
+    window.gtag('event', 'event_register_click', {
+      event_id: link.dataset.eventId || 'unknown',
+      registration_url: link.href,
+      page_location: window.location.href
+    });
+
+    console.log('GA4 event sent: event_register_click');
+  });
+}
 /* ===== Interactive Handlers ===== */
 
 function toggleFaq(btn) {
@@ -1590,6 +1610,7 @@ async function init() {
   // Render page
   renderPage();
   setupNavbar();
+  setupRegistrationTracking();
 
   // Handle browser back/forward
   window.addEventListener('popstate', renderPage);

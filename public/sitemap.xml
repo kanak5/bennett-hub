@@ -189,5 +189,12 @@
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
+   <!-- Blog Article: Hackathon Registration -->
+  <url>
+    <loc>https://bennettshub.in/blog/hackathon-registration-bennett-university/</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 
 </urlset>
